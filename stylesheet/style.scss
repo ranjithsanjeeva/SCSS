@@ -1,0 +1,7 @@
+
+@import "./header";
+@import "./variable";
+
+.contact{
+    @include flexCenter(row,blue);
+}
